@@ -1,2 +1,12 @@
 # DiceGame
-A small game called Two Dice Pig
+A small game called Two Dice Pig.
+
+To play:
+Roll the dice and try to score 100 points before the computer does.
+Each turn, you can choose to hold to add your current points to your total score, or keep rolling. But, if you roll a 1, you get no points that turn.
+If you roll snake eyes, you lose all your points.
+
+To install:
+Download the Desktop.jar file and the "Images" folder (inside the "ProgramGUI" folder)
+Make sure to save the "Images folder and Desktop.jar in the same folder.
+Then run Desktop.jar to play.
