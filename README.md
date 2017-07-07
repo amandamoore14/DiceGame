@@ -7,4 +7,4 @@ Each turn, you can choose to hold to add your current points to your total score
 If you roll snake eyes, you lose all your points.
 
 To install:
-Download the TwoDicePigInstall file and run TwoDicePig.jar
+Download the TwoDicePigInstall folder and run the TwoDicePig.jar file inside this folder.
