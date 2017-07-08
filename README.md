@@ -1,5 +1,5 @@
 # DiceGame
-A small game called Two Dice Pig.
+A game called Two Dice Pig.
 
 To play:
 Roll the dice and try to score 100 points before the computer does.
@@ -7,4 +7,4 @@ Each turn, you can choose to hold to add your current points to your total score
 If you roll snake eyes, you lose all your points.
 
 To install:
-Download the TwoDicePigInstall folder and run the TwoDicePig.jar file inside this folder.
+Download the TwoDicePigInstall folder and run the TwoDicePig.jar file inside this folder. You will also need to have Java installed on your computer: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html 
